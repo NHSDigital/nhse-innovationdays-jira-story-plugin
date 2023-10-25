@@ -1,5 +1,5 @@
 # A Simple Chrome Extension for JIRA Stories
-A simple extention which will select a ticket description and display it in a field.
+A simple extension which will select a ticket description and display it in a field.
 
 ## To test out this extension
 1. Clone this repository to your local machine.

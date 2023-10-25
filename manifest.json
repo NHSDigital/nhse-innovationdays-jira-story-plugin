@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Simple Jira Story Extention",
-  "description": "Simple Jira story extention to get data from the active tab and show it to the user.",
+  "name": "Simple Jira Story Extension",
+  "description": "Simple Jira story extension to get data from the active tab and show it to the user.",
   "version": "0.0.1",
   "browser_action": {
     "default_icon": "default_icon.png",
