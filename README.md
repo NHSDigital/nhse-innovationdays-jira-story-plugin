@@ -7,3 +7,6 @@ A simple extention which will select a ticket description and display it in a fi
 3. Toggle 'Developer mode' on
 4. Click 'Load Unpacked' and select the cloned directory
 5. Open a new tab and click the extension's icon to open its popup & see it in action
+
+# Hackday Task
+Using this repository as a starting point, improve this base Chrome Extension to aid a collegue in refining a story.
